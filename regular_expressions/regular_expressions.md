@@ -12,7 +12,7 @@ Takend from ![vitorbritto](https://gist.github.com/vitorbritto/9ff58ef998100b8f1
 
 ## Position Matching
 
-- `^`: Start of string or start of line in multi-line mode
+- `^`: Start of string or start of line in multi-line mode. Logical Not, when inside square brackets.
 - `\A`: Start of string
 - `$`: End of string or end of line in multi-line mode
 - `\Z`: End of string
