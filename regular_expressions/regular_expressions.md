@@ -2,7 +2,8 @@
 # Regular Expressions
 
 Takend from [vitorbritto](https://gist.github.com/vitorbritto/9ff58ef998100b8f19a0). Plus my edits. 
-Another indept [resource](https://www.py4e.com/lectures3/)
+Another useful result. [resource](https://www.py4e.com/lectures3/)
+If nothing works got to [manual](https://docs.python.org/3/howto/regex.html)
 
 ## Basic Syntax
 
