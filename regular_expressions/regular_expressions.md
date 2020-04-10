@@ -1,8 +1,8 @@
 
 # Regular Expressions
 
-Takend from ![vitorbritto](https://gist.github.com/vitorbritto/9ff58ef998100b8f19a0). Plus my edits. 
-Another indept ![resource](https://www.py4e.com/lectures3/)
+Takend from [vitorbritto](https://gist.github.com/vitorbritto/9ff58ef998100b8f19a0). Plus my edits. 
+Another indept [resource](https://www.py4e.com/lectures3/)
 
 ## Basic Syntax
 
