@@ -2,7 +2,7 @@
 # Regular Expressions
 
 Takend from [vitorbritto](https://gist.github.com/vitorbritto/9ff58ef998100b8f19a0). Plus my edits. 
-Another useful result. [resource](https://www.py4e.com/lectures3/)
+Another useful result. [resource](https://www.py4e.com/lectures3/), also see their [codebase](https://www.py4e.com/code3/)
 [A tutorial:](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
 [A solid app to interactively do so testing:](https://regex101.com/r/cO8lqs/24)
 If nothing works got to [manual](https://docs.python.org/3/howto/regex.html)
